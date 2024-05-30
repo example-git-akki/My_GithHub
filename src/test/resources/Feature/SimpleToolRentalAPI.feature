@@ -1,3 +1,4 @@
+#Added to git
 Feature: To Automate and Verify the Response of Simple Tool Rental API Document.
 
   @GET_STATUS
@@ -45,3 +46,4 @@ Feature: To Automate and Verify the Response of Simple Tool Rental API Document.
     Examples:
       | toolId | customerName |
       | 3674   | John Doe     |
+    
