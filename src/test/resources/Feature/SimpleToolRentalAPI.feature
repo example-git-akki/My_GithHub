@@ -30,7 +30,7 @@ Feature: To Automate and Verify the Response of Simple Tool Rental API Document.
     Then user extracts the ACCESS TOKEN generated after POST HTTP REQUEST
     Examples:
       | clientName | clientEmail           |
-      | Postman    | akpatil15@example.com |
+      | Postman    | akpatil16@example.com |
 
 
   @getOrders
@@ -46,4 +46,3 @@ Feature: To Automate and Verify the Response of Simple Tool Rental API Document.
     Examples:
       | toolId | customerName |
       | 3674   | John Doe     |
-    
